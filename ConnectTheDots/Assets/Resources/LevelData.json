@@ -1,0 +1,307 @@
+{
+  "levels": [
+    {
+      "level_id": 1,
+      "nodes": [
+        {
+          "node_id": 1,
+          "first_pos": {"row":0, "column":1},
+          "second_pos": {"row":3, "column":0}
+        },
+        {
+          "node_id": 2,
+          "first_pos": {"row":4, "column":0},
+          "second_pos": {"row":0, "column":2}
+        },
+        {
+          "node_id": 3,
+          "first_pos": {"row":1, "column":3},
+          "second_pos": {"row":2, "column":2}
+        },
+        {
+          "node_id": 4,
+          "first_pos": {"row":0, "column":3},
+          "second_pos": {"row":4, "column":3}
+        },
+        {
+          "node_id": 5,
+          "first_pos": {"row":3, "column":3},
+          "second_pos": {"row":4, "column":2}
+        }
+      ]
+    },
+    {
+      "level_id": 2,
+      "nodes": [
+        {
+          "node_id": 1,
+          "first_pos": {"row":2, "column":0},
+          "second_pos": {"row":0, "column":3}
+        },
+        {
+          "node_id": 2,
+          "first_pos": {"row":1, "column":2},
+          "second_pos": {"row":3, "column":1}
+        },
+        {
+          "node_id": 3,
+          "first_pos": {"row":0, "column":4},
+          "second_pos": {"row":1, "column":3}
+        },
+        {
+          "node_id": 4,
+          "first_pos": {"row":3, "column":0},
+          "second_pos": {"row":3, "column":4}
+        },
+        {
+          "node_id": 5,
+          "first_pos": {"row":3, "column":3},
+          "second_pos": {"row":4, "column":4}
+        }
+      ]
+    },
+
+    {
+      "level_id": 3,
+      "nodes": [
+        {
+          "node_id": 1,
+          "first_pos": {"row":1, "column":1},
+          "second_pos": {"row":4, "column":2}
+        },
+        {
+          "node_id": 2,
+          "first_pos": {"row":3, "column":0},
+          "second_pos": {"row":1, "column":4}
+        },
+        {
+          "node_id": 3,
+          "first_pos": {"row":1, "column":2},
+          "second_pos": {"row":3, "column":3}
+        },
+        {
+          "node_id": 4,
+          "first_pos": {"row":4, "column":0},
+          "second_pos": {"row":3, "column":1}
+        },
+        {
+          "node_id": 5,
+          "first_pos": {"row":2, "column":4},
+          "second_pos": {"row":4, "column":3}
+        }
+      ]
+    },
+    {
+      "level_id": 4,
+      "nodes": [
+        {
+          "node_id": 1,
+          "first_pos": {"row":0, "column":0},
+          "second_pos": {"row":2, "column":4}
+        },
+        {
+          "node_id": 2,
+          "first_pos": {"row":0, "column":1},
+          "second_pos": {"row":0, "column":4}
+        },
+        {
+          "node_id": 3,
+          "first_pos": {"row":3, "column":0},
+          "second_pos": {"row":2, "column":3}
+        },
+        {
+          "node_id": 4,
+          "first_pos": {"row":4, "column":0},
+          "second_pos": {"row":3, "column":3}
+        },
+        {
+          "node_id": 5,
+          "first_pos": {"row":3, "column":4},
+          "second_pos": {"row":4, "column":2}
+        }
+      ]
+    },
+    
+    {
+      "level_id": 5,
+      "nodes": [
+        {
+          "node_id": 1,
+          "first_pos": {"row":0, "column":1},
+          "second_pos": {"row":2, "column":0}
+        },
+        {
+          "node_id": 2,
+          "first_pos": {"row":1, "column":1},
+          "second_pos": {"row":3, "column":2}
+        },
+        {
+          "node_id": 3,
+          "first_pos": {"row":4, "column":0},
+          "second_pos": {"row":2, "column":1}
+        },
+        {
+          "node_id": 4,
+          "first_pos": {"row":1, "column":3},
+          "second_pos": {"row":2, "column":2}
+        },
+        {
+          "node_id": 5,
+          "first_pos": {"row":4, "column":1},
+          "second_pos": {"row":4, "column":4}
+        }
+      ]
+    },
+    {
+      "level_id": 6,
+      "nodes": [
+        {
+          "node_id": 1,
+          "first_pos": {"row":0, "column":0},
+          "second_pos": {"row":4, "column":1}
+        },
+        {
+          "node_id": 2,
+          "first_pos": {"row":3, "column":1},
+          "second_pos": {"row":0, "column":3}
+        },
+        {
+          "node_id": 3,
+          "first_pos": {"row":1, "column":3},
+          "second_pos": {"row":2, "column":2}
+        },
+        {
+          "node_id": 4,
+          "first_pos": {"row":0, "column":4},
+          "second_pos": {"row":3, "column":2}
+        },
+        {
+          "node_id": 5,
+          "first_pos": {"row":3, "column":4},
+          "second_pos": {"row":4, "column":2}
+        }
+      ]
+    },
+    {
+      "level_id": 7,
+      "nodes": [
+        {
+          "node_id": 1,
+          "first_pos": {"row":0, "column":3},
+          "second_pos": {"row":2, "column":0}
+        },
+        {
+          "node_id": 2,
+          "first_pos": {"row":0, "column":4},
+          "second_pos": {"row":1, "column":3}
+        },
+        {
+          "node_id": 3,
+          "first_pos": {"row":1, "column":2},
+          "second_pos": {"row":3, "column":1}
+        },
+        {
+          "node_id": 4,
+          "first_pos": {"row":3, "column":0},
+          "second_pos": {"row":3, "column":4}
+        },
+        {
+          "node_id": 5,
+          "first_pos": {"row":3, "column":3},
+          "second_pos": {"row":4, "column":4}
+        }
+      ]
+    },
+    {
+      "level_id": 8,
+      "nodes": [
+        {
+          "node_id": 1,
+          "first_pos": {"row":0, "column":0},
+          "second_pos": {"row":4, "column":1}
+        },
+        {
+          "node_id": 2,
+          "first_pos": {"row":0, "column":2},
+          "second_pos": {"row":3, "column":1}
+        },
+        {
+          "node_id": 3,
+          "first_pos": {"row":1, "column":2},
+          "second_pos": {"row":4, "column":2}
+        },
+        {
+          "node_id": 4,
+          "first_pos": {"row":0, "column":4},
+          "second_pos": {"row":3, "column":3}
+        },
+        {
+          "node_id": 5,
+          "first_pos": {"row":1, "column":4},
+          "second_pos": {"row":4, "column":3}
+        }
+      ]
+    },
+    {
+      "level_id": 9,
+      "nodes": [
+        {
+          "node_id": 1,
+          "first_pos": {"row":0, "column":2},
+          "second_pos": {"row":2, "column":0}
+        },
+        {
+          "node_id": 2,
+          "first_pos": {"row":0, "column":3},
+          "second_pos": {"row":4, "column":0}
+        },
+        {
+          "node_id": 3,
+          "first_pos": {"row":0, "column":4},
+          "second_pos": {"row":3, "column":4}
+        },
+        {
+          "node_id": 4,
+          "first_pos": {"row":2, "column":3},
+          "second_pos": {"row":4, "column":1}
+        },
+        {
+          "node_id": 5,
+          "first_pos": {"row":3, "column":3},
+          "second_pos": {"row":4, "column":4}
+        }
+      ]
+    },
+
+    {
+      "level_id": 10,
+      "nodes": [
+        {
+          "node_id": 1,
+          "first_pos": {"row":0, "column":0},
+          "second_pos": {"row":3, "column":3}
+        },
+        {
+          "node_id": 2,
+          "first_pos": {"row":0, "column":1},
+          "second_pos": {"row":0, "column":3}
+        },
+        {
+          "node_id": 3,
+          "first_pos": {"row":0, "column":4},
+          "second_pos": {"row":2, "column":2}
+        },
+        {
+          "node_id": 4,
+          "first_pos": {"row":2, "column":0},
+          "second_pos": {"row":4, "column":3}
+        },
+        {
+          "node_id": 5,
+          "first_pos": {"row":2, "column":3},
+          "second_pos": {"row":4, "column":4}
+        }
+      ]
+    }
+  ]
+}
